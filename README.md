@@ -1,5 +1,3 @@
-
-
 # Projet Communauté d'Agglomération
 
 Ce projet Java simule la gestion d'une communauté d'agglomération, permettant à l'utilisateur de gérer des villes et des zones de recharge électrique. Il a été développé et testé en utilisant l'IDE Eclipse.
